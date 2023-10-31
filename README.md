@@ -1,0 +1,5 @@
+# petsupplies
+
+## NOTEBOOK THAT GOT ME THE DATACAMP'S DATA ANALYST ASSOCIATE CERTIFICATION
+
+https://www.datacamp.com/certificate/DAA0019980149332
